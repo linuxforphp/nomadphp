@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5504df2f-d546-495c-a170-730e316daab1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="172.17.0.2" id="f2547767-986a-4b11-9683-158ab66ddfff" name="NomadPHP" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/srv/nomadphp" />
+        </path_mappings>
+      </server>
+      <server host="localhost" id="820c50ef-b021-405d-b532-adf832dfc994" name="localhost" port="8181" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/public" remote-root="/srv/nomadphp/public" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1abHG39izhOxlacFPKQTYt2343Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="PHP Remote Debug.NomadPHP">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/public/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="NomadPHP" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="NomadPHP" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Remote Debug.NomadPHP" />
+      <item itemvalue="PHP Script.index.php" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5504df2f-d546-495c-a170-730e316daab1" name="Default Changelist" comment="" />
+      <created>1586997273634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586997273634</updated>
+      <workItem from="1586997277541" duration="5022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="124" width="824" height="691" key="#CLI_Interpreters" timestamp="1587002319010">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="303" y="124" width="824" height="691" key="#CLI_Interpreters/0.27.1440.873@0.27.1440.873" timestamp="1587002319010" />
+    <state x="315" y="125" width="800" height="684" key="#Notifications" timestamp="1587002243477">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="315" y="125" width="800" height="684" key="#Notifications/0.27.1440.873@0.27.1440.873" timestamp="1587002243477" />
+    <state x="178" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587002873516">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="178" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.873@0.27.1440.873" timestamp="1587002873516" />
+    <state x="406" y="143" width="618" height="648" key="#index.php" timestamp="1587002135754">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="406" y="143" width="618" height="648" key="#index.php/0.27.1440.873@0.27.1440.873" timestamp="1587002135754" />
+    <state width="1394" height="224" key="GridCell.Tab.0.bottom" timestamp="1587003379855">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.bottom/0.27.1440.873@0.27.1440.873" timestamp="1587003379855" />
+    <state width="1394" height="224" key="GridCell.Tab.0.center" timestamp="1587003379854">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.center/0.27.1440.873@0.27.1440.873" timestamp="1587003379854" />
+    <state width="1394" height="224" key="GridCell.Tab.0.left" timestamp="1587003379854">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.left/0.27.1440.873@0.27.1440.873" timestamp="1587003379854" />
+    <state width="1394" height="224" key="GridCell.Tab.0.right" timestamp="1587003379855">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.right/0.27.1440.873@0.27.1440.873" timestamp="1587003379855" />
+    <state width="1394" height="224" key="GridCell.Tab.1.bottom" timestamp="1587003379856">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.1.bottom/0.27.1440.873@0.27.1440.873" timestamp="1587003379856" />
+    <state width="1394" height="224" key="GridCell.Tab.1.center" timestamp="1587003379855">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.1.center/0.27.1440.873@0.27.1440.873" timestamp="1587003379855" />
+    <state width="1394" height="224" key="GridCell.Tab.1.left" timestamp="1587003379855">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.1.left/0.27.1440.873@0.27.1440.873" timestamp="1587003379855" />
+    <state width="1394" height="224" key="GridCell.Tab.1.right" timestamp="1587003379855">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.1.right/0.27.1440.873@0.27.1440.873" timestamp="1587003379855" />
+    <state width="1394" height="224" key="GridCell.Tab.2.bottom" timestamp="1587003379857">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.2.bottom/0.27.1440.873@0.27.1440.873" timestamp="1587003379857" />
+    <state width="1394" height="224" key="GridCell.Tab.2.center" timestamp="1587003379856">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.2.center/0.27.1440.873@0.27.1440.873" timestamp="1587003379856" />
+    <state width="1394" height="224" key="GridCell.Tab.2.left" timestamp="1587003379856">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.2.left/0.27.1440.873@0.27.1440.873" timestamp="1587003379856" />
+    <state width="1394" height="224" key="GridCell.Tab.2.right" timestamp="1587003379856">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.2.right/0.27.1440.873@0.27.1440.873" timestamp="1587003379856" />
+    <state x="209" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1587002843271">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="209" y="98" width="1022" height="737" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1587002843271" />
+    <state x="380" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1586997280089">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="380" y="291" key="com.intellij.ide.util.TipDialog/0.27.1440.873@0.27.1440.873" timestamp="1586997280089" />
+    <state x="259" y="202" width="912" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587002370895">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="259" y="202" width="912" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1440.873@0.27.1440.873" timestamp="1587002370895" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/public/index.php</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/public/index.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

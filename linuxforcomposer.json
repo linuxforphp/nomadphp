@@ -1,0 +1,66 @@
+{
+    "name": "linuxforphp/linuxforcomposer",
+    "description": "A Composer interface to run 'Linux for PHP' Docker containers, Dockerfiles or docker-compose files.",
+    "single": {
+        "image": {
+            "linuxforcomposer": {
+                "php-versions": [
+                    "7.4"
+                ],
+                "script": [
+                    "echo 'xdebug.remote_enable = 1' >> /etc/php.ini",
+                    "echo 'xdebug.remote_enable_trigger = 1' >> /etc/php.ini",
+                    "echo 'xdebug.remote_connect_back = 1' >> /etc/php.ini",
+                    "echo 'xdebug.idekey = PHPSTORM' >> /etc/php.ini",
+                    "echo 'xdebug.profiler_enable = 1' >> /etc/php.ini",
+                    "echo 'xdebug.profiler_enable_trigger = 1' >> /etc/php.ini",
+                    "cd /srv",
+                    "mv www www.OLD",
+                    "ln -s nomadphp/public www",
+                    "lfphp --mysql --phpfpm --apache"
+                ],
+                "thread-safe": "false"
+            },
+            "dockerfile": {
+                "url": "",
+                "container-name": "",
+                "username": "",
+                "token": ""
+            }
+        },
+        "containers": {
+            "modes": {
+                "mode1": "detached",
+                "mode2": "interactive",
+                "mode3": "tty"
+            },
+            "ports": {
+                "port1": [
+                    "8181:80"
+                ]
+            },
+            "volumes": {
+                "volume1": "${PWD}/:/srv/nomadphp"
+            },
+            "persist-data": {
+                "mount": "false",
+                "root-name": "",
+                "directories": {
+                    "directory1": "",
+                    "directory2": "",
+                    "directory3": ""
+                }
+            }
+        }
+    },
+    "docker-compose": {
+        "url": "",
+        "username": "",
+        "token": ""
+    },
+    "lfphp-cloud": {
+        "account": "",
+        "username": "",
+        "token": ""
+    }
+}
